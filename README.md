@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Blake Nhul and I work at Ecolab as a Systems Analyst currently
+- 👀 I’m interested in applications of machine learning to problems :)
+- 🌱 I’m currently learning how to apply machine learning to safety data
+- 💞️ I’m looking to collaborate on safety related projects :)
+- 📫 Contact me at Blake.Nhul@Ecolab.com for any questions
